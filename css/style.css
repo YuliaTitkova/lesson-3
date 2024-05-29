@@ -1,0 +1,203 @@
+.wrapper {
+    background: #000;
+    width: 1170px;
+    padding: 24px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.header {
+    background: linear-gradient(90deg, #fcfefe 0%, #a5deff 100%);
+    font-size: 16px;
+    padding: 4px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.navigation {
+    background: linear-gradient(-90deg, #fcfefe 0%, #a5deff 100%);
+    font-size: 16px;
+    line-height: 18px;
+    border-radius: 24px;
+    margin-left: 24px;
+    margin-right: 14px;
+}
+
+.navigation-ul {
+    font-size: 16px;
+    padding: 24px;
+    list-style-type: square;
+}
+
+.navigation-list {
+    list-style-type: disc;
+}
+
+.content-article {
+    width: 1170px;
+    font-size: 16px;
+    line-height: 18px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    box-sizing: border-box;
+}
+
+
+.main-page-text-container {
+    background: linear-gradient(90deg, #fcfefe 0%, rgb(251, 255, 221) 100%);
+    width: 1170px;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.blok1 {
+    width: 1170px;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+
+.gallery-part-one {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+.gallery-part-two {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+
+.articles {
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.introduction-h1 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 24px;
+}
+
+.introduction {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.blok2 {
+    width: 1170px;
+    color: black;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 24px;
+    box-sizing: border-box;
+
+}
+
+
+.blok3 {
+    width: 1170px;
+    color: black;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.blok4 {
+    width: 1100px;
+    color: black;
+    font-size: 16px;
+    line-height: 18px;
+    margin: 24px;
+    box-sizing: border-box;
+}
+
+.personal-information {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.course {
+    padding: 4px;
+    margin-top: 15px;
+}
+
+.name {
+    padding: 4px;
+}
+
+.email {
+    padding: 4px;
+}
+
+.course-choice {
+    padding: 4px;
+}
+
+.button-back {
+    border-radius: 8px;
+    background: cornflowerblue;
+    padding: 12px;
+    border: none;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 24px;
+    margin-top: 24px;
+}
+
+.button-send {
+    border-radius: 8px;
+    background: cornflowerblue;
+    padding: 12px;
+    border: none;
+    color: white;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 24px;
+    margin-top: 24px;
+}
+
+.test {
+    background: lightblue;
+    width: 100%;
+    height: 250px;
+    font-size: 16px;
+    line-height: 18px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.footer {
+    background: linear-gradient(180deg, #fcfefe 0%, #a5deff 100%);
+    width: 100%;
+    padding: 24px;
+    box-sizing: border-box;
+}
