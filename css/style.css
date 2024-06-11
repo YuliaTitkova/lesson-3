@@ -374,7 +374,7 @@
 .sticky {
     position: sticky;
     top: 80px;
-    right: 800px;
+    right: 300px;
     width: 280px;
     height: 300px;
     background: blueviolet;
